@@ -2,9 +2,9 @@
 title: "Teaching experience - Data Analytics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/
+permalink: /teaching/mis2502-data-analytics/
 venue: "Temple University, MIS Department"
-date: 2025 FALL
+year: 2025
 location: "Philadelphia, PA"
 ---
 
