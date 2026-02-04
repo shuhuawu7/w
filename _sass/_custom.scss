@@ -24,3 +24,26 @@
 .page__content table tbody tr:nth-child(even) {
   background: #fafafa;
 }
+
+
+
+/* =========================================
+   Table styling override (remove green header)
+   ========================================= */
+
+table thead th,
+table th {
+  background-color: #f3f4f6 !important; /* light gray */
+  color: #333 !important;
+}
+
+table,
+table th,
+table td {
+  border-color: #c9ced6 !important;
+}
+
+table th,
+table td {
+  padding: 0.6rem 0.75rem;
+}
