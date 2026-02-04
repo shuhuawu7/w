@@ -8,7 +8,6 @@ date: 2025-08-21
 location: "Philadelphia, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 ## **Teaching Overview**
 At Temple University, I have served as both a teaching assistant and an instructor across multiple semesters. These experiences have been instrumental in shaping my teaching philosophy and have strengthened my dedication to high-quality education.
