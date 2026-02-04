@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/mis2502-data-analytics/
 venue: "Temple University, MIS Department"
-year: 2025
+date: 2025-08-21
 location: "Philadelphia, PA"
 ---
 
