@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience - Business Decision Modeling"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/
+venue: "University of Connecticut, OPIM Department"
+date: 2018 FALL
+location: "Stamford, CT"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+## **Teaching Overview**
+At University of Connecticut, I have served as a teaching assistant for OPIM 5641 Business Decision Modeling in 2018 Fall.
 
-Heading 2
-======
 
-Heading 3
-======
+
