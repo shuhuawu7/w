@@ -6,7 +6,11 @@ permalink: /research/rcm-bankruptcy/
 excerpt: "Work in progress."
 authors: "Shuhua Wu"
 status: "Working Paper"
+date: 2025-01-01
+show_date: false
+link: false
 ---
+
 
 
 <details class="paper-summary">
