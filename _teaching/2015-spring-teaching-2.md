@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/business decision modeling/
 venue: "University of Connecticut, OPIM Department"
-year: 2018 
+date: 2018-08-21
 location: "Stamford, CT"
 ---
 
