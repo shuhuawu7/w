@@ -41,14 +41,21 @@ At Temple University, I have served as both a teaching assistant and an instruct
 
 ## Teaching  Evaluation
 
-| Semester | Course Name | Mode | Credits | Number of Students | Response Rate | Student Evaluation |
-|---------|-------------|------|---------|--------------------|---------------|--------------------|
-| Fall 2025 | Data Analytics | In-person | 3.0 | 43 | 58% (25 / 43) | **4.5 / 5*** |
+- **Semester:** Fall 2025  
+- **Course:** MIS 2502 – Data Analytics (Undergraduate, Temple University)  
+- **Enrollment:** 43 students  
+- **Response rate:** 58% (25 / 43)  
+- **Overall teaching evaluation:** **4.5 / 5.0***  
 
-\* Average score of:  
-(1) The instructor was organized and prepared for class;  
-(2) Overall, the instructor was effective in helping me learn the material in this course;  
-(3) Overall, I learned a great deal from this course.
+<div style="font-size: 0.65em; line-height: 1.35; color: #555; margin-top: 6px;">
+  <em>*Average score of:</em><br>
+  (1) The instructor was organized and prepared for class;<br>
+  (2) Overall, the instructor was effective in helping me learn the material in this course;<br>
+  (3) Overall, I learned a great deal from this course.
+</div>
+
+
+
 
 
 
