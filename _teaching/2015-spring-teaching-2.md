@@ -2,9 +2,9 @@
 title: "Teaching experience - Business Decision Modeling"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/
+permalink: /teaching/business decision modeling/
 venue: "University of Connecticut, OPIM Department"
-date: 2018 FALL
+year: 2018 
 location: "Stamford, CT"
 ---
 
