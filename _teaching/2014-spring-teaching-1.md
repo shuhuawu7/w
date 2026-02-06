@@ -6,6 +6,8 @@ permalink: /teaching/mis2502-data-analytics/
 venue: "Temple University, MIS Department"
 date: 2025-08-21
 location: "Philadelphia, PA"
+---
+
 ### Teaching Evaluation
 
 - **Semester:** Fall 2025  
@@ -13,9 +15,7 @@ location: "Philadelphia, PA"
 - **Enrollment:** 43 students  
 - **Response rate:** 58% (25 / 43)  
 - **Overall teaching evaluation:** **4.5 / 5.0**
----
-
-
+  
 ## **Teaching Overview**
 At Temple University, I have served as both a teaching assistant and an instructor across multiple semesters. These experiences have been instrumental in shaping my teaching philosophy and have strengthened my dedication to high-quality education.
 
