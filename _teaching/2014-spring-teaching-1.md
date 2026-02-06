@@ -6,6 +6,13 @@ permalink: /teaching/mis2502-data-analytics/
 venue: "Temple University, MIS Department"
 date: 2025-08-21
 location: "Philadelphia, PA"
+### Teaching Evaluation
+
+- **Semester:** Fall 2025  
+- **Course:** MIS 2502 – Data Analytics (Undergraduate, Temple University)  
+- **Enrollment:** 43 students  
+- **Response rate:** 58% (25 / 43)  
+- **Overall teaching evaluation:** **4.5 / 5.0**
 ---
 
 
