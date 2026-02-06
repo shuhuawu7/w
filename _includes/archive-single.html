@@ -57,6 +57,16 @@
 
 {% if post.collection == 'teaching' %}
   <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+  {% if post.eval_overall %}
+    <p class="archive__item-excerpt" style="margin-top: 0.25em;">
+      <strong>Teaching Evaluation</strong><br>
+      <strong>Semester:</strong> {{ post.eval_semester }}<br>
+      <strong>Course:</strong> {{ post.eval_course }}<br>
+      <strong>Enrollment:</strong> {{ post.eval_enrollment }}<br>
+      <strong>Response rate:</strong> {{ post.eval_response_rate }}<br>
+      <strong>Overall:</strong> <strong>{{ post.eval_overall }}</strong>
+    </p>
+  {% endif %}
 
 {% elsif post.collection == 'publications' %}
 
