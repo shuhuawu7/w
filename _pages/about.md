@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: false
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 <div class="home-hero">
 
   <div class="home-hero-photo">
@@ -25,7 +34,5 @@
     </p>
 
   </div>
-
-</div>
 
 </div>
