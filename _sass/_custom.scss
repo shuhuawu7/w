@@ -81,12 +81,19 @@ table td {
   margin-bottom: 1.8rem;
 }
 
-.home-hero-text p {
-  font-size: 1.05rem;
-  line-height: 1.75;
-  margin-bottom: 1.4rem;
+.home-name {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  font-size: 2.15rem !important;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
 }
 
+.chinese-name {
+  display: inline-block;
+  margin-left: 0.25rem;
+}
 @media screen and (max-width: 900px) {
   .home-hero {
     grid-template-columns: 1fr;
