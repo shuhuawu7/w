@@ -23,8 +23,8 @@ redirect_from:
     </p>
 
     <p>
-      My research interests include health information technology, the
-      social impact of IT, and digital platforms.
+      My research interests include health information technology, the social impact of IT,
+      and digital platforms.
     </p>
 
     <p>
