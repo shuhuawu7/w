@@ -53,13 +53,12 @@ table td {
 
 .home-hero {
   display: grid;
-  grid-template-columns: 300px 1fr;
-  gap: 3.5rem;
+  grid-template-columns: 280px 1fr;
+  gap: 2.5rem;
   align-items: start;
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
-
 .home-hero-photo img {
   width: 300px;
   height: auto;
