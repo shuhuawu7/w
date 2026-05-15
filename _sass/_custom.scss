@@ -47,3 +47,10 @@ table th,
 table td {
   padding: 0.6rem 0.75rem;
 }
+.author__avatar img {
+  width: 220px !important;
+  height: 220px !important;
+  max-width: 220px !important;
+  object-fit: cover;
+  border-radius: 50%;
+}
