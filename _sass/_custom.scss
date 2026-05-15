@@ -47,10 +47,22 @@ table th,
 table td {
   padding: 0.6rem 0.75rem;
 }
+/* =========================================
+   Larger sidebar profile photo
+   ========================================= */
+
+.author__avatar {
+  display: block !important;
+  width: 220px !important;
+  height: 220px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 .author__avatar img {
   width: 220px !important;
   height: 220px !important;
-  max-width: 220px !important;
+  max-width: none !important;
   object-fit: cover;
   border-radius: 50%;
 }
