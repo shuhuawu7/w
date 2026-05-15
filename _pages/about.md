@@ -23,8 +23,7 @@ redirect_from:
     </p>
 
     <p>
-      I am a Ph.D. student in Management Information Systems at the Fox School of Business,
-      Temple University. My research interests include health information technology, the
+      My research interests include health information technology, the
       social impact of IT, and digital platforms.
     </p>
 
