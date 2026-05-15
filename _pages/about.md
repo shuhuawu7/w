@@ -10,7 +10,7 @@ redirect_from:
 <div class="home-hero">
 
   <div class="home-hero-photo">
-    <img src="/w/images/photo.png" alt="Shuhua Wu">
+    <img src="/w/images/photo1.png" alt="Shuhua Wu">
   </div>
 
   <div class="home-hero-text">
