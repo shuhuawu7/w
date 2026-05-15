@@ -15,7 +15,7 @@ redirect_from:
 
   <div class="home-hero-text">
 
-    <h1>Shuhua Wu</h1>
+    <h1>Shuhua Wu 巫舒华</h1>
 
     <p class="home-subtitle">
       Ph.D. Student in Management Information Systems<br>
