@@ -91,12 +91,9 @@ table td {
   }
 }
 
-  .home-hero-photo img {
-    max-width: 360px;
-  }
-}
 /* =========================================
    Homepage profile photo size
+   Use this only if the photo is inserted as normal Markdown image
    ========================================= */
 
 .page__content > p:first-of-type img {
