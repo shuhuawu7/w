@@ -53,8 +53,8 @@ table td {
 
 .home-hero {
   display: grid;
-  grid-template-columns: 42% 1fr;
-  gap: 4rem;
+  grid-template-columns: 280px 1fr;
+  gap: 3rem;
   align-items: start;
   margin-top: 2.5rem;
   margin-bottom: 3rem;
@@ -62,7 +62,7 @@ table td {
 
 .home-hero-photo img {
   width: 100%;
-  max-width: 520px;
+  max-width: 260px;
   height: auto;
   display: block;
   border-radius: 0;
@@ -85,6 +85,11 @@ table td {
     grid-template-columns: 1fr;
     gap: 2rem;
   }
+
+  .home-hero-photo img {
+    max-width: 260px;
+  }
+}
 
   .home-hero-photo img {
     max-width: 360px;
