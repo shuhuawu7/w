@@ -23,7 +23,7 @@ repository               : "https://shuhuawu7.github.io/w/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "photo.png"
   name             : "Shuhua Wu 巫舒华"
   pronouns         : # example: "she/her"  
   bio              : "A Ph.D. student in Fox Business School of Temple University"
